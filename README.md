@@ -7,7 +7,6 @@ Nx x Next.jsのサンプルコード
 - [APIの環境構築](https://github.com/takeshiemoto/tour-of-heroes-api)
 - [Vercelアカウント](https://vercel.com/)
 - [Vercel CLI](https://vercel.com/download)
-- このリポジトリを任意のリポジトリにforkする （Cloneしてリモート変更でも可能）
 
 ## Vercel
 
